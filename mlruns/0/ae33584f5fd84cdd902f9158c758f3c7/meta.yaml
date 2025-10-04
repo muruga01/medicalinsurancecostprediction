@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ae33584f5fd84cdd902f9158c758f3c7/artifacts
+end_time: 1752562775770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae33584f5fd84cdd902f9158c758f3c7
+run_name: gifted-deer-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752562768511
+status: 4
+tags: []
+user_id: murug

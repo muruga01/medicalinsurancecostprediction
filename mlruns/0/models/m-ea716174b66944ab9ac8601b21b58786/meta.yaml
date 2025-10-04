@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-ea716174b66944ab9ac8601b21b58786/artifacts
+creation_timestamp: 1752562948865
+experiment_id: '0'
+last_updated_timestamp: 1752562956121
+model_id: m-ea716174b66944ab9ac8601b21b58786
+model_type: null
+name: sklearn-model
+source_run_id: a65c1d8cabb6442287dadf122f60daf9
+status: 3
+status_message: null

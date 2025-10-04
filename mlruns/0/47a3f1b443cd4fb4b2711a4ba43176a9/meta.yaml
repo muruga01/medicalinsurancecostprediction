@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/47a3f1b443cd4fb4b2711a4ba43176a9/artifacts
+end_time: 1752563062076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47a3f1b443cd4fb4b2711a4ba43176a9
+run_name: unleashed-doe-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752563052264
+status: 4
+tags: []
+user_id: murug
