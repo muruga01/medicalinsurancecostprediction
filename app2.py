@@ -11,6 +11,7 @@ import warnings
 # Suppress a common warning from scikit-learn when using older joblib versions
 warnings.filterwarnings('ignore') 
 
+# Set up the Streamlit app
 st.set_page_config(page_title="Insurance Cost Predictor", layout="wide")
 st.title("🏥 Medical Insurance Cost Predictor")
 st.markdown("---")
