@@ -8,7 +8,7 @@ model = joblib.load('best_model.pkl')
 
 # App title
 st.title("Medical Insurance Cost Predictor")
-st.markdown("Enter your details below to get a personalized cost estimate.")
+st.markdown("Enter your details below to get a cost estimate.")
 
 # User inputs
 st.header("Enter Your Details")
@@ -51,8 +51,3 @@ if st.button("Predict Cost", type="primary", use_container_width=True):
     with st.spinner("Calculating..."):
         prediction = model.predict(input_data)[0]
     st.success(f"### Estimated Medical Insurance Cost: **${prediction:,.2f}**")
-    
-    st.info("""
-    **Note:** This is an estimate based on historical data and ML modeling.  
-    Actual costs may vary based on provider, plan, and other factors.
-    """)
