@@ -4,4 +4,3 @@ scikit-learn
 joblib
 reportlab
 pillow
-streamlit-lottie
